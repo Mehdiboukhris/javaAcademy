@@ -8,5 +8,8 @@ branches:
 branches:
   only:
   - master
+  - travis
+  - develop
+  - developFactory
 
 language: java
