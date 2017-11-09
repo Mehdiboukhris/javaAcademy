@@ -1,15 +1,1 @@
-# blocklist
-branches:
-  except:
-  - gh-pages
-
-
-# safelist
-branches:
-  only:
-  - master
-  - travis
-  - develop
-  - developFactory
-
 language: java
